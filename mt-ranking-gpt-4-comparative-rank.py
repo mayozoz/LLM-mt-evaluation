@@ -9,7 +9,7 @@ import concurrent.futures
 import re
 from itertools import combinations
 
-api_key = "youdao-ai-IfdzwyFarZiDUnOx"
+api_key = "xxx"
 
 
 def get_prompt(source, translations):
