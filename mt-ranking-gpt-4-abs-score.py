@@ -7,7 +7,7 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 import concurrent.futures
 
-api_key = "youdao-ai-IfdzwyFarZiDUnOx"
+api_key = "xxx"
 
 
 def get_prompt(tibetan_source, chinese_translation):
